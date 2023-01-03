@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "180492001404",
+    "firebase_url": "https://hsmotorsgzb-default-rtdb.firebaseio.com",
+    "project_id": "hsmotorsgzb",
+    "storage_bucket": "hsmotorsgzb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180492001404:android:2dc25c1f5e0abd638169f9",
+        "android_client_info": {
+          "package_name": "com.devss.myshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180492001404-l2c0klphleu6ibuucpquesgjrs3r4ljd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoBvFMAU8TvblFTpYDazVCvrXOT_IJlgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180492001404-l2c0klphleu6ibuucpquesgjrs3r4ljd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
